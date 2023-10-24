@@ -9,7 +9,7 @@ export default function Home() {
             <body>
                 <div className="bg-cover bg-center flex justify-center flex-col items-center" style={{
                     backgroundImage:
-                        `url(${'public/images/one-piece-zoro-manga-bm23qxb4xo77mf44.jpg'})`, width: '100%', height: '400px'
+                        `url(${'images/one-piece-zoro-manga-bm23qxb4xo77mf44.jpg'})`, width: '100%', height: '400px'
                 }}>
                     <h1 className="text-white text-5xl">Buscar Manga</h1>
                     <input placeholder="Buscar mangá" className="h-12 w-96 m-6 rounded-md border-2 p-2" />
